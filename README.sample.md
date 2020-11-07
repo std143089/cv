@@ -21,7 +21,7 @@ offers room for further progress.
 ## Education
 
 
-##Licenses & certifications
+## Licenses & certifications
 Certification | Time
 --------------- |--------------- |
 Cisco certified Network Assosiate (CCNA) | 2006
