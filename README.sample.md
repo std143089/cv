@@ -1,93 +1,42 @@
-Johnny Coder
-============
+# Sotiriou Dimitrios
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+![GitHub Logo](/images/profile.png)
 
-Education
----------
+## Contact:
+- phone: +31(0)610443143
+- email: std143089@ac.eap.gr
+- Linkedin : https://www.linkedin.com/in/dimitris-sotiriou-a31a63113/
+- GitHub: https://github.com/std143089/
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## About:
+An enthusiastic and reliable IT support engineer, with extensive practical experience on hardware and
+software, operating systems and basic computer programming. With a proven ability to administer and
+control the operation, configuration and maintenance of computer based information systems. Familiar with electronic equipment, Internet applications and network support, eager to develop new skills from a
+challenging position in the field of technical support and network engineering. Possessing an excellent team
+spirit, deadline orientated, now looking for a suitable position at a dynamic company that
+offers room for further progress.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
 
-    *Minor: Awesomeology*
+## Education
 
-Experience
-----------
 
-**Your Most Recent Work Experience:**
+##Licenses & certifications
+Certification | Time
+--------------- |--------------- |
+Cisco certified Network Assosiate (CCNA) | 2006
+Mikrotik Certified Network Assosiate (MTCNA) | 2012
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+## Work Experince
+Position | Place | Time Period
+--------------- |--------------- |--------------- |--------------- |
+Internship at the department of Telecommunication Metric Network (ΤMN) |Hellenic Telecomunication Organization S.A | GR-Thessaloniki| Marc 2005 - Aug 2005
+Network Technician |Pan Dacom Networking AG| GR-Thessaloniki | Jul 2006 -Nov 2006
+Production and audiovisual support |Remembering the Past-Building the Future festival funded by the European program Europe for Citizens | GR-Thessaloniki | Nov 2006- Sep 2011
+Administrator of servers and networks |Smalls Ltd | GR-Thessaloniki | Nov 2006 -Sep 2014
+Store and Techinician manager |Gameway Internet Cafe| GR-Thessaloniki | Oct 2014- Nov 2016
+Data center Technician |Singlehop and INAP company| NL-Amsterdam | Jul 2017-Present
 
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-Technical Experience
---------------------
-
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+## Languages:
+  - Greek (Mother tongue)
+  - English
