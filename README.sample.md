@@ -3,10 +3,10 @@
 ![GitHub Logo](/images/profile.png)
 
 ## Contact:
-- phone: +31(0)610443143
-- email: std143089@ac.eap.gr
-- Linkedin : https://www.linkedin.com/in/dimitris-sotiriou-a31a63113/
-- GitHub: https://github.com/std143089/
+- *phone:* +31(0)610443143
+- *email:* std143089@ac.eap.gr
+- *Linkedin:* https://www.linkedin.com/in/dimitris-sotiriou-a31a63113/
+- *GitHub:* https://github.com/std143089/
 
 ## About:
 An enthusiastic and reliable IT support engineer, with extensive practical experience on hardware and
@@ -22,13 +22,13 @@ offers room for further progress.
 
 
 ## Licenses & certifications
-Certification | Time
+*Certification* | *Time*
 --------------- |--------------- |
 Cisco certified Network Assosiate (CCNA) | 2006
 Mikrotik Certified Network Assosiate (MTCNA) | 2012
 
 ## Work Experince
-Position | Company | Place | Time Period
+*Position* | *Company* | *Place* | *Time Period*
 --------------- |--------------- |--------------- |--------------- |
 Internship at the department of Telecommunication Metric Network (ΤMN) |Hellenic Telecomunication Organization S.A | GR-Thessaloniki| Marc 2005 - Aug 2005
 Network Technician |Pan Dacom Networking AG| GR-Thessaloniki | Jul 2006 -Nov 2006
