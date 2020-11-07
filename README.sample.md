@@ -28,7 +28,7 @@ Cisco certified Network Assosiate (CCNA) | 2006
 Mikrotik Certified Network Assosiate (MTCNA) | 2012
 
 ## Work Experince
-Position | Place | Time Period
+Position | Company | Place | Time Period
 --------------- |--------------- |--------------- |--------------- |
 Internship at the department of Telecommunication Metric Network (ΤMN) |Hellenic Telecomunication Organization S.A | GR-Thessaloniki| Marc 2005 - Aug 2005
 Network Technician |Pan Dacom Networking AG| GR-Thessaloniki | Jul 2006 -Nov 2006
