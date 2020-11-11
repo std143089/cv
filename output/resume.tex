@@ -1,0 +1,201 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Sotiriou Dimitrios},reference={sotiriou-dimitrios}]
+
+\placefigure{GitHub Logo}{\externalfigure[/images/profile.png]}
+
+\subsection[title={Contact:},reference={contact}]
+
+\startitemize[packed]
+\item
+  phone: +31(0)610443143
+\item
+  email: std143089@ac.eap.gr
+\item
+  Linkedin : https://www.linkedin.com/in/dimitris-sotiriou-a31a63113/
+\item
+  GitHub: https://github.com/std143089/
+\stopitemize
+
+\subsection[title={About:},reference={about}]
+
+An enthusiastic and reliable IT support engineer, with extensive
+practical experience on hardware and software, operating systems and
+basic computer programming. With a proven ability to administer and
+control the operation, configuration and maintenance of computer based
+information systems. Familiar with electronic equipment, Internet
+applications and network support, eager to develop new skills from a
+challenging position in the field of technical support and network
+engineering. Possessing an excellent team spirit, deadline orientated,
+now looking for a suitable position at a dynamic company that offers
+room for further progress.
+
+\subsection[title={Education},reference={education}]
+
+\subsection[title={Licenses &
+certifications},reference={licenses-certifications}]
+
+\startplacetable[location=none]
+\startxtable
+\startxtablehead[head]
+\startxrow
+\startxcell Certification \stopxcell
+\startxcell Time \stopxcell
+\stopxrow
+\stopxtablehead
+\startxtablebody[body]
+\startxrow
+\startxcell Cisco certified Network Assosiate (CCNA) \stopxcell
+\startxcell 2006 \stopxcell
+\stopxrow
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell Mikrotik Certified Network Assosiate (MTCNA) \stopxcell
+\startxcell 2012 \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+\subsection[title={Work Experince},reference={work-experince}]
+
+\startplacetable[location=none]
+\startxtable
+\startxtablehead[head]
+\startxrow
+\startxcell[width={0.25\textwidth}] Position \stopxcell
+\startxcell[width={0.25\textwidth}] Company \stopxcell
+\startxcell[width={0.25\textwidth}] Place \stopxcell
+\startxcell[width={0.25\textwidth}] Time Period \stopxcell
+\stopxrow
+\stopxtablehead
+\startxtablebody[body]
+\startxrow
+\startxcell[width={0.25\textwidth}] Internship at the department of
+Telecommunication Metric Network (ΤMN) \stopxcell
+\startxcell[width={0.25\textwidth}] Hellenic Telecomunication
+Organization S.A \stopxcell
+\startxcell[width={0.25\textwidth}] GR-Thessaloniki \stopxcell
+\startxcell[width={0.25\textwidth}] Marc 2005 - Aug 2005 \stopxcell
+\stopxrow
+\startxrow
+\startxcell[width={0.25\textwidth}] Network Technician \stopxcell
+\startxcell[width={0.25\textwidth}] Pan Dacom Networking AG \stopxcell
+\startxcell[width={0.25\textwidth}] GR-Thessaloniki \stopxcell
+\startxcell[width={0.25\textwidth}] Jul 2006 -Nov 2006 \stopxcell
+\stopxrow
+\startxrow
+\startxcell[width={0.25\textwidth}] Production and audiovisual
+support \stopxcell
+\startxcell[width={0.25\textwidth}] Remembering the Past-Building the
+Future festival funded by the European program Europe for
+Citizens \stopxcell
+\startxcell[width={0.25\textwidth}] GR-Thessaloniki \stopxcell
+\startxcell[width={0.25\textwidth}] Nov 2006- Sep 2011 \stopxcell
+\stopxrow
+\startxrow
+\startxcell[width={0.25\textwidth}] Administrator of servers and
+networks \stopxcell
+\startxcell[width={0.25\textwidth}] Smalls Ltd \stopxcell
+\startxcell[width={0.25\textwidth}] GR-Thessaloniki \stopxcell
+\startxcell[width={0.25\textwidth}] Nov 2006 -Sep 2014 \stopxcell
+\stopxrow
+\startxrow
+\startxcell[width={0.25\textwidth}] Store and Techinician
+manager \stopxcell
+\startxcell[width={0.25\textwidth}] Gameway Internet Cafe \stopxcell
+\startxcell[width={0.25\textwidth}] GR-Thessaloniki \stopxcell
+\startxcell[width={0.25\textwidth}] Oct 2014- Nov 2016 \stopxcell
+\stopxrow
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[width={0.25\textwidth}] Data center Technician \stopxcell
+\startxcell[width={0.25\textwidth}] Singlehop and INAP
+company \stopxcell
+\startxcell[width={0.25\textwidth}] NL-Amsterdam \stopxcell
+\startxcell[width={0.25\textwidth}] Jul 2017-Present \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+\subsection[title={Languages:},reference={languages}]
+
+\startitemize[packed]
+\item
+  Greek (Mother tongue)
+\item
+  English
+\stopitemize
+
+\stoptext
